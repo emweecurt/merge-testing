@@ -7,7 +7,7 @@ pacman::p_load(googlesheets4)
 
 start_time = Sys.time()
 
-extrafont::loadfonts(device = "win",
+extrafont::loadfonts(device = "mariners",
                      quiet = T)
 
 pacman::p_load(tidyverse)
